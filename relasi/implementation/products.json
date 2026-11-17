@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Kopi Lampung",
+        "price": 10000
+    },
+    {
+        "id": 2,
+        "name": "Teh Melati",
+        "price": 8000
+    },
+    {
+        "id": 3,
+        "name": "Cokelat Bubuk",
+        "price": 15000
+    },
+    {
+        "id": 4,
+        "name": "Susu Oat",
+        "price": 22000
+    },
+    {
+        "id": 5,
+        "name": "Gula Aren",
+        "price": 12000
+    },
+    {
+        "id": 6,
+        "name": "Kopi Toraja",
+        "price": 18000
+    },
+    {
+        "id": 7,
+        "name": "Teh Hijau",
+        "price": 9000
+    },
+    {
+        "id": 8,
+        "name": "Cangkir Keramik",
+        "price": 35000
+    },
+    {
+        "id": 9,
+        "name": "Biji Kopi Arabika",
+        "price": 45000
+    },
+    {
+        "id": 10,
+        "name": "Sirup Vanilla",
+        "price": 25000
+    }
+]
