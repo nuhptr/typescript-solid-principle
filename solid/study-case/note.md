@@ -77,3 +77,6 @@ begitu, kelas `Car` cukup bergantung pada `EngineInterface` dan
 Beberapa operasi, seperti `Car.brake()`, `Piston.move()`, dan
 `ElectricMotor.rotate()`, masih berupa placeholder; contoh ini berfokus pada
 struktur hierarki dan dependensi.
+
+Lihat [visualisasi aliran data](./visualization.md) untuk diagram alur refill
+dan akselerasi pada kedua jenis kendaraan.
