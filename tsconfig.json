@@ -8,5 +8,5 @@
         "noEmit": true,
         "skipLibCheck": true
     },
-    "include": ["object-oriented-programming/**/*.ts", "relasi/**/*.ts"]
+    "include": ["object-oriented-programming/**/*.ts", "relasi/**/*.ts", "solid/**/*.ts"]
 }
